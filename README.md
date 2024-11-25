@@ -20,7 +20,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/PropolisChain/PropolisChain/tags) are created
+completely stable. [Tags](https://github.com/PropolisChain/PropolisCore/tags) are created
 regularly from release branches to indicate new official, stable release versions of Propolis Core.
 
 The https://github.com/Propolis-core/gui repository is used exclusively for the
