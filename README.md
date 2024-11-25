@@ -4,7 +4,7 @@ Propolis Core integration/staging tree
 What is Propolis Core?
 ---------------------
 
-Propolis Core is integral to the Propolis peer-to-peer TEE (trusted execution environment) network, and it downloads, mines blocks and performs transactional interactions. It also includes a wallet and graphical user
+Propolis Core is integral to the Propolis peer-to-peer TEE (trusted execution environment) network, and it downloads, mines blocks and enables users to interact with the network. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
 Further information about Propolis Core is available in the [doc folder](/doc).
